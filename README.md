@@ -15,5 +15,5 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores ✒️
 
-* **Edith Moyano** - *Trabajo Inicial- Estudiante Argentina Programa-4.0 (10/2022)* - 
+* **Edith Moyano** - *Trabajo Inicial- Estudiante YoProgramo-4.0 (Argentina Programa 4ta edición) (10/2022)* - 
 
